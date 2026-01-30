@@ -56,7 +56,7 @@ src/
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### Clone the repository
 ```bash
