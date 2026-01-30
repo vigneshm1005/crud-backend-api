@@ -41,7 +41,6 @@ src/
 - Delete data by ID
 - MongoDB connection using Mongoose
 - REST API architecture
-- MVC-like folder structure
 
 ---
 
